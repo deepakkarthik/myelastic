@@ -1,0 +1,26 @@
+GET /products/_search
+
+GET /products/_doc/bk-1
+
+http://localhost:5601/
+
+http://127.0.0.1:5601/app/home#/
+
+http://localhost:9200/
+https://www.elastic.co/guide/en/elasticsearch/client/java-api-client/current/connecting.html
+
+
+
+
+https://www.elastic.co/guide/en/kibana/7.17/settings.html
+
+https://www.elastic.co/guide/en/elasticsearch/reference/7.17/index.html
+
+
+https://www.elastic.co/guide/en/elasticsearch/client/java-api-client/current/usage.html
+
+https://www.elastic.co/guide/en/elasticsearch/client/java-api-client/current/usage.html
+
+
+
+https://www.elastic.co/guide/en/kibana/7.17/docker.html

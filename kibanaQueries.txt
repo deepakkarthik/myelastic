@@ -1,0 +1,11 @@
+GET /products/_search
+
+GET /products/_doc/bk-1
+
+GET /products/_count?q=name:bike 
+
+GET /products/_count?q=value:100
+
+GET /products/_count?q=name:"electric bike"
+
+GET /products/_count
