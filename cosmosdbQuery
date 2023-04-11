@@ -9,3 +9,7 @@ SELECT   u.user,  u.action FROM d  JOIN u IN d.userstatus WHERE u.user="
 SELECT   u.user,  u.action FROM c  JOIN u IN c.userstatus WHERE u.user="User1"  and c.documentId="1680855944332" 
 
 SELECT userstatus.user  FROM c join userstatus in c.userstatus where userstatus.user="User2" and c.documentId="1680855944332"
+
+SELECT relatedentity FROM c join relatedentity in c.relatedentity where c.id="1680852590119"
+
+SELECT relatedentity.relatedentityid FROM c join relatedentity in c.relatedentity where c.id="1680852590119"
